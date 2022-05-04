@@ -1,13 +1,13 @@
-9cf8b1283d7b734fa03c280c8694e012 *DESCRIPTION
+60415c1fccdbbd0143f90fd9d31523c0 *DESCRIPTION
 d8bebdfabd370d3ad575d844832a852f *LICENSE
 e095e9520c0f73b248df4ae5df5fccb1 *NAMESPACE
-da6c1baae39f8909e70ea5de1722d3d5 *NEWS.md
+58c5856317fa9fad14a7e5b1af598cb6 *NEWS.md
 c5bc72bf6900d790abf674ac20df45b0 *R/Txp-candidate.R
 c5bc72bf6900d790abf674ac20df45b0 *R/Txp-recipient.R
-49ef5eabdd11fb3a6bfbf99fbc96c89c *R/aki.R
-929a64bac7af0cf655b60cd14984e8dd *R/anemia.R
+d35e44e2a817def51ec65ad924dd4b45 *R/aki.R
+ed4fef477c94f1bd08bf9cf6cee6054b *R/anemia.R
 c5bc72bf6900d790abf674ac20df45b0 *R/bp.R
-88a65f52e4d35a2be60b3142e1163501 *R/ckd.R
+94c5945116116f37a4d674f58866c1ec *R/ckd.R
 c5bc72bf6900d790abf674ac20df45b0 *R/ckd_diabetes.R
 c5bc72bf6900d790abf674ac20df45b0 *R/ckd_mbd.R
 2099bff8dd13e27909597c878e35e055 *R/data-aki.R
@@ -18,7 +18,7 @@ c5bc72bf6900d790abf674ac20df45b0 *R/gn.R
 c5bc72bf6900d790abf674ac20df45b0 *R/hep-c.R
 c5bc72bf6900d790abf674ac20df45b0 *R/ld.R
 741818155a8e1e0779c8437b957c9af6 *R/lipid.R
-498bd22d7dad6f688e306f0db3db825b *R/utils.R
+bb571d5565598408de41a4383fdb1a79 *R/utils.R
 b7b68b40eb239467a9e95c419f54fedc *build/vignette.rds
 7c07d6bfe579d509f2d52dd3b67ba485 *data/aki_pt_data.rda
 d2dd8b606c0bfc03c6164e3c13b1b754 *data/anemia_pt_data.rda
@@ -26,7 +26,7 @@ bed689506b620c917db46092b006f597 *data/clinical_obvs.rda
 107a4bba803ade19b5181d7737b4615e *data/eGFR_pt_data.rda
 cd966b272b06031da54d325ad53877f8 *inst/doc/epocakir.R
 5dcf4d531c1483a68f6c8ce415c0034e *inst/doc/epocakir.Rmd
-f23c3f585387f0bd4a203b41b2827239 *inst/doc/epocakir.html
+b2f1a6ac141ff1355168f81aaab40b02 *inst/doc/epocakir.html
 e14c60e5de1ca30e2633b1e00ffec3c3 *man/Albuminuria_stages.Rd
 69f4bcea319ffab6774a521f90dbdd44 *man/Albuminuria_staging_ACR.Rd
 fa29ced32911d4c89836b1b19352446c *man/Albuminuria_staging_AER.Rd
@@ -40,7 +40,7 @@ c33c01c72038ecf4c3b387d5a8598cda *man/aki_UO.Rd
 4ba8110fe4263ab79288ac78eb16fd9f *man/aki_staging.Rd
 13bfead6ea6bdd3e9ecc5833b308b0d7 *man/anemia.Rd
 26ee46d3a981e4ce0df7586b8bfa5609 *man/anemia_pt_data.Rd
-52e428156df1985cb7804782b9d6cf3a *man/as_metric.Rd
+410975a835810b491498d717b86381ec *man/as_metric.Rd
 0c624632498863dce9ea7d5b7a8fdf47 *man/binary2factor.Rd
 24392a6fdeb4d922aed51697284533ad *man/clinical_obvs.Rd
 951e7c099e08a3c7c2dd844efe3f52b4 *man/combine_date_time_cols.Rd
@@ -57,7 +57,7 @@ f6e17eea70933307470846796c135ebe *man/eGFR_child_SCr_BUN.Rd
 cfd6e7c4b6ae7f521b4a37a45e680da1 *man/eGFR_pt_data.Rd
 a6f1421936fe74b73ed05ac1ff99699b *man/reexports.Rd
 171505b8a2e296d13d3c44de2f2ffc8d *tests/testthat.R
-4d4082ee94ef4765edbedfc6cbb2f417 *tests/testthat/test-aki.R
+d436b6438268f3ae406e15aa3af0c52a *tests/testthat/test-aki.R
 ad02be1c750d88dcc72d4ca1a49ea19d *tests/testthat/test-anemia.R
 0900576d2b833006312264113ba80ed5 *tests/testthat/test-ckd.R
 275fd34273c6fbe4184f68c3e93f4d3e *tests/testthat/test-utils.R
